@@ -4,6 +4,10 @@
 
 ## 使用说明：
 
+### 手机端请点击:
+
+[进入歌词列表](https://github.com/intominority/DT-PPT?files=1)
+
 ### 点击上边的歌词名进入查看
 ---
 ## 快速搜索：
