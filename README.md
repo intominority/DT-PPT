@@ -1,7 +1,5 @@
 # Create DT-PPT the required lyrics library
 
----
-
 ## 使用说明：
 
 #### 手机端请直接点这里：[进入歌词列表](https://github.com/intominority/DT-PPT?files=1)
