@@ -4,9 +4,9 @@
 
 ## 使用说明：
 
-### 手机端请这里：[进入歌词列表](https://github.com/intominority/DT-PPT?files=1)
+#### 手机端请直接点这里：[进入歌词列表](https://github.com/intominority/DT-PPT?files=1)
 
-### 点击上边的歌词名进入查看
+#### 点击上边的歌词名进入查看
 
 ---
 
